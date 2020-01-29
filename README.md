@@ -1,2 +1,0 @@
-# RandomDogs
-Created with CodeSandbox
